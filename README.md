@@ -1,6 +1,8 @@
 # Bluetooth_smart_door
 Arduino project, smart door which you can open with your phone
 
+You can find video of working door model in the repository.
+
 # SCHEMA OF THE PROJECT ARDUINO CONNECTIONS
 ![Screenshot 2023-04-23 231453](https://github.com/ddimitrov04/Bluetooth_smart_door/assets/50717457/1675f8fd-422b-4507-9512-aa396c011404)
 
